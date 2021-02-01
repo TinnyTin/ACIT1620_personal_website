@@ -1,0 +1,6 @@
+
+/* a background-color was added redundantly to check contrast ratio for accessibility */
+h1 {color: #F0EDEE;
+    /* background-color: #2C666E */}
+
+body {background-color: #2C666E}
