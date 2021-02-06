@@ -1,6 +1,5 @@
 
-/* a background-color was added redundantly to check contrast ratio for accessibility */
-h1 {color: #F0EDEE;
-    /* background-color: #2C666E */}
+/* As requested, only h1 was changed for the assignment. */
+h1 {color: #F0EDEE}
 
 body {background-color: #2C666E}
