@@ -1,5 +1,13 @@
 
-/* As requested, only h1 was changed for the assignment. */
-h1 {color: #F0EDEE}
-
-body {background-color: #2C666E}
+html {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #E5DADA;
+    color: #02040F;
+}
+.menu {
+    color: #02040F;
+    border-color: #002642;
+    border: solid;
+    border-radius: 5px;
+    padding: 1rem
+}
